@@ -1,0 +1,2 @@
+# python-srandy
+srandicky nooooo
